@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqeel-asghar1&label=Profile%20views&color=0e75b6&style=flat" alt="aqeel-asghar1" /> </p>
 
-- 🔭 I’m currently working on **QuickHub**
+- 🔭 I’m currently working on **BuizerApp**
 
 - 🌱 I’m currently learning **Node.js & Express framework**
 
-- 💬 Ask me about **React, React Native, redux**
+- 💬 Ask me about **React, React Native, redux, TypeScript**
 
 - 📫 How to reach me **AqeelAsghar561146@gmail.com**
 
